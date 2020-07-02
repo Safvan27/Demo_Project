@@ -16,7 +16,7 @@
         <center>
             <br/><br/>
 
-            <h1><strong><u>WELCOME TO WEBSITE</u></strong></h1>
+            <h1>TEST PROJECT</h1>
             
 
 
