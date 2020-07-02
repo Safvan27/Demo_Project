@@ -2,10 +2,10 @@ var app = angular.module("sample", ["ngRoute"]);
 app.config(function($routeProvider){
 
     $routeProvider
-    .when("/course", {
+    .when("/post", {
         templateUrl : "templates/post.html"
     })
-    .when("/department", {
+    .when("/view", {
         templateUrl : "templates/view.html"
     });
 });
