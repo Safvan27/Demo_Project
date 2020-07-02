@@ -16,12 +16,12 @@
         <center>
             <br/><br/>
 
-            <h1>TEST PROJECT</h1>
+            <h1><strong><u>WELCOME TO DEMO PAGE</u></strong></h1>
             
 
 
 <a href="#!post">Name</a>
-<a href="#!view">About</a>
+<a href="#!view">2nd Page</a>
 
 <div class="ng-view"></div><br>
         </center>
